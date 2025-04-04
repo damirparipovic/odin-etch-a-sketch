@@ -17,7 +17,7 @@ button {
 .grid_container {
     margin: 16px;
     border: 4px black solid;
-    background-color: gray;
+    background-color: black;
     height: 900px;
     width: 900px;
     display: flex;
